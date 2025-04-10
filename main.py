@@ -37,15 +37,15 @@ print("\n𝐗𝐁𝐨𝐭𝐬 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐒𝐮𝐜𝐜�
 
 async def main():
     await X1.run_until_disconnected()
-    await X2.run_until_disconnected()
-    await X3.run_until_disconnected()
-    await X4.run_until_disconnected()
-    await X5.run_until_disconnected()
-    await X6.run_until_disconnected()
-    await X7.run_until_disconnected()
-    await X8.run_until_disconnected()
-    await X9.run_until_disconnected()
-    await X10.run_until_disconnected()
+ #   await X2.run_until_disconnected()
+ #   await X3.run_until_disconnected()
+   # await X4.run_until_disconnected()
+  #  await X5.run_until_disconnected()
+#    await X6.run_until_disconnected()
+ #   await X7.run_until_disconnected()
+ #   await X8.run_until_disconnected()
+ #   await X9.run_until_disconnected()
+#    await X10.run_until_disconnected()
 
 
 loop = asyncio.get_event_loop()
